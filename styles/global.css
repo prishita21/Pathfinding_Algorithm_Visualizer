@@ -1,0 +1,130 @@
+/* .grid {
+    display: grid;
+    gap: 1px;
+}
+
+.node {
+    width: 25px;
+    height: 25px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.node-start {
+    background-color: green;
+}
+
+.node-end {
+    background-color: red;
+}
+
+.node-wall {
+    background-color: black;
+}
+
+.node-visited {
+    background-color: lightblue;
+}
+
+.node-shortest-path {
+    background-color: yellow;
+}
+
+.control-panel {
+    margin: 20px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+} */
+/* .grid {
+    display: grid;
+    gap: 1px;
+}
+
+.node {
+    width: 25px;
+    height: 25px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.node-start {
+    background-color: green;
+}
+
+.node-end {
+    background-color: red;
+}
+
+.node-wall {
+    background-color: black;
+}
+
+.node-visited {
+    background-color: lightblue;
+}
+
+.node-shortest-path {
+    background-color: yellow;
+}
+
+.control-panel {
+    margin: 20px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.info-panel {
+    margin: 20px 0;
+    font-size: 18px;
+} */
+.grid {
+    display: grid;
+    gap: 1px;
+}
+
+.node {
+    width: 25px;
+    height: 25px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+
+.node-start {
+    background-color: green;
+}
+
+.node-end {
+    background-color: red;
+}
+
+.node-wall {
+    background-color: black;
+}
+
+.node-visited {
+    background-color: lightblue;
+}
+
+.node-shortest-path {
+    background-color: yellow;
+}
+
+.control-panel {
+    margin-bottom: 10px;
+}
+
+.info-panel {
+    margin-top: 20px;
+}
